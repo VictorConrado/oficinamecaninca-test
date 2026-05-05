@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCCD8BA-8D6D-4183-A24B-BEE3268614A9}|OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica.tests\\services\\orcamentoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCCD8BA-8D6D-4183-A24B-BEE3268614A9}|OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj|solutionrelative:oficinamecanica.tests\\services\\orcamentoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCCD8BA-8D6D-4183-A24B-BEE3268614A9}|OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica.tests\\repositories\\orcamentorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCCD8BA-8D6D-4183-A24B-BEE3268614A9}|OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj|solutionrelative:oficinamecanica.tests\\repositories\\orcamentorepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCCD8BA-8D6D-4183-A24B-BEE3268614A9}|OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica.tests\\controllers\\orcamentoscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CCCD8BA-8D6D-4183-A24B-BEE3268614A9}|OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj|solutionrelative:oficinamecanica.tests\\controllers\\orcamentoscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\services\\orcamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\services\\orcamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\services\\interfaces\\iorcamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\services\\interfaces\\iorcamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\repositories\\orcamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\repositories\\orcamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\repositories\\interfaces\\iorcamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\repositories\\interfaces\\iorcamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\models\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\models\\orcamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\dtos\\orcamentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\dtos\\orcamentoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\dtos\\criarorcamentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\dtos\\criarorcamentorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\controllers\\orcamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CCCD8BA-8D6D-4183-A24B-BEE3268614A9}|OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica.tests\\oficinamecanica.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CCCD8BA-8D6D-4183-A24B-BEE3268614A9}|OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj|solutionrelative:oficinamecanica.tests\\oficinamecanica.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|c:\\users\\victor\\source\\repos\\oficinamecanica\\oficinamecanica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2812140-29D5-421A-B79A-8B9678CED7D4}|OficinaMecanica\\OficinaMecanica.csproj|solutionrelative:oficinamecanica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrcamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Services\\Interfaces\\IOrcamentoService.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\Services\\Interfaces\\IOrcamentoService.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Services\\Interfaces\\IOrcamentoService.cs",
+              "RelativeToolTip": "OficinaMecanica\\Services\\Interfaces\\IOrcamentoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:58:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrcamentoService.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Services\\OrcamentoService.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\Services\\OrcamentoService.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Services\\OrcamentoService.cs",
+              "RelativeToolTip": "OficinaMecanica\\Services\\OrcamentoService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:58:11.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrcamentosControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica.Tests\\Controllers\\OrcamentosControllerTests.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica.Tests\\Controllers\\OrcamentosControllerTests.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica.Tests\\Controllers\\OrcamentosControllerTests.cs",
+              "RelativeToolTip": "OficinaMecanica.Tests\\Controllers\\OrcamentosControllerTests.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAgwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:43:11.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrcamentoRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica.Tests\\Repositories\\OrcamentoRepositoryTests.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica.Tests\\Repositories\\OrcamentoRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica.Tests\\Repositories\\OrcamentoRepositoryTests.cs",
+              "RelativeToolTip": "OficinaMecanica.Tests\\Repositories\\OrcamentoRepositoryTests.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:40:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrcamentoServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica.Tests\\Services\\OrcamentoServiceTests.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica.Tests\\Services\\OrcamentoServiceTests.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica.Tests\\Services\\OrcamentoServiceTests.cs",
+              "RelativeToolTip": "OficinaMecanica.Tests\\Services\\OrcamentoServiceTests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAIIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:42:04.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrcamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Repositories\\OrcamentoRepository.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\Repositories\\OrcamentoRepository.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Repositories\\OrcamentoRepository.cs",
+              "RelativeToolTip": "OficinaMecanica\\Repositories\\OrcamentoRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:00:16.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrcamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Repositories\\Interfaces\\IOrcamentoRepository.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\Repositories\\Interfaces\\IOrcamentoRepository.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Repositories\\Interfaces\\IOrcamentoRepository.cs",
+              "RelativeToolTip": "OficinaMecanica\\Repositories\\Interfaces\\IOrcamentoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:00:00.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Orcamento.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Models\\Orcamento.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\Models\\Orcamento.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Models\\Orcamento.cs",
+              "RelativeToolTip": "OficinaMecanica\\Models\\Orcamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:56:36.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrcamentoResponse.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\DTOs\\OrcamentoResponse.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\DTOs\\OrcamentoResponse.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\DTOs\\OrcamentoResponse.cs",
+              "RelativeToolTip": "OficinaMecanica\\DTOs\\OrcamentoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:56:25.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CriarOrcamentoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\DTOs\\CriarOrcamentoRequest.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\DTOs\\CriarOrcamentoRequest.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\DTOs\\CriarOrcamentoRequest.cs",
+              "RelativeToolTip": "OficinaMecanica\\DTOs\\CriarOrcamentoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:56:12.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrcamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Controllers\\OrcamentoController.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\Controllers\\OrcamentoController.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Controllers\\OrcamentoController.cs",
+              "RelativeToolTip": "OficinaMecanica\\Controllers\\OrcamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T19:55:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OficinaMecanica.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj",
+              "RelativeDocumentMoniker": "OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj",
+              "RelativeToolTip": "OficinaMecanica.Tests\\OficinaMecanica.Tests.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T20:34:02.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Program.cs",
+              "RelativeDocumentMoniker": "OficinaMecanica\\Program.cs",
+              "ToolTip": "C:\\Users\\VICTOR\\source\\repos\\OficinaMecanica\\OficinaMecanica\\Program.cs",
+              "RelativeToolTip": "OficinaMecanica\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIAwwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T20:06:09.439Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
